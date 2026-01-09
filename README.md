@@ -50,7 +50,7 @@ open → assigned → confirmed → closed
 ---
 
 ## 👤 Author
-**Your Name**
+**Sagar H N**
 
 ---
 
